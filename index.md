@@ -15,5 +15,5 @@ I am a student member of [SNU Probability group](https://sites.google.com/view/s
 
 I am interested in
 - Random Matrix
-- Orthogonal Polynomails and Their $q$-Analogue
+- Orthogonal Polynomials and Their $q$-Analogue
 - Quantum Information Theory
