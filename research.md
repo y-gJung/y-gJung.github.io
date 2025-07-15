@@ -5,6 +5,14 @@ title: Research
 
 # Research
 
-Here I will list my publications, preprints, and slides.
+Research Interests
+- Random Matrix
+- Orthogonal Polynomials and Their $q$-Analogue
+- Quantum Information Theory
 
-- [My first paper on arXiv](https://arxiv.org/)
+# Preprints & Ongoing Works
+
+# Publications
+
+# Talks
+- 
