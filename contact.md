@@ -5,5 +5,5 @@ title: Contact
 
 # Contact
 
-- 📧 Email: your.email@example.com  
-- 🏫 Department of Mathematics, Your University
+- 📧 Email: wollow21@snu.ac.kr  
+- 🏫 Department of Mathematical Sciences, Seoul National University
