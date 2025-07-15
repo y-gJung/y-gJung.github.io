@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-Hi, I’m a graduate student in mathematics.  
-This is my personal website where I share my research and contact information.
+Thank you for visiting my Homepage.
+I am a Ph.D student in department of mathematical sciences, Seoul National University.
+I am a student member of SNU Probability group.
 
-Feel free to explore the pages using the menu above.
