@@ -33,6 +33,10 @@
   text-decoration: underline;
 }
 
+a:visited {
+  color: #88c999;  /* 방문한 링크도 같은 색 유지 */
+}
+
 .main-content {
   flex-grow: 1;
   padding: 2rem;
