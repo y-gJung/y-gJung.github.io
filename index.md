@@ -11,3 +11,8 @@ I am a Ph.D student in department of mathematical sciences, Seoul National Unive
 
 I am a student member of SNU Probability group.
 
+## 📂 Pages
+
+- [Research](./research.html)
+- [CV](./cv.html)
+- [Contact](./contact.html)
