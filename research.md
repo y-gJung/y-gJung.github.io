@@ -13,6 +13,7 @@ title: Research
 ## Preprints & Ongoing Works
 
 ## Publications
+1. A universal framework for entanglement detection under group symmetry. *Journal of Physics A: Mathematical and Theoretical*, 57, 325304 (2024). (with Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn) 
 
 ## Talks
 1. (2025. 08. ??) [Log-gases in Caeli Australi](https://lica2025.github.io/), Creswick, Australia. (Scheduled)
