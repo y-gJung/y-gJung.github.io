@@ -11,7 +11,7 @@ title: Research
 - Quantum Information Theory
 
 ## Preprints & Ongoing Works
-
+1. Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight
 ## Publications
 1. A universal framework for entanglement detection under group symmetry. *Journal of Physics A: Mathematical and Theoretical*, 57, 325304 (2024). (with Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn) 
 
