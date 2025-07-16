@@ -13,7 +13,7 @@ I am a Ph.D student in department of mathematical sciences, Seoul National Unive
 
 I am a student member of [SNU Probability group](https://sites.google.com/view/snuprob/home?authuser=0).
 
-I am interested in
+I am interested in 
 - Random Matrix
 - Orthogonal Polynomials and Their $q$-Analogue
 - Quantum Information Theory
