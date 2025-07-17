@@ -33,6 +33,15 @@
   text-decoration: underline;
 }
 
+a {
+  color: #88c999; /* 예: 짙은 녹색 */
+  text-decoration: none; /* 밑줄 제거 (선택사항) */
+}
+
+a:hover {
+  text-decoration: underline; /* 마우스 올렸을 때 */
+}
+
 a:visited {
   color: #88c999;  /* 방문한 링크도 같은 색 유지 */
 }
