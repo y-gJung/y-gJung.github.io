@@ -28,7 +28,7 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
-  [2025. 08. ??] <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>, Creswick, Australia. (Scheduled)
+  [2025. 08. 15] <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>, Creswick, Australia. (Scheduled)
   </li>
   <li>
   [2025. 06. 23] <a href="https://sites.google.com/view/pssk2025/home?authuser=0">Probability Summer School in Korea 2025</a>, Sokcho, Korea.
