@@ -18,4 +18,15 @@ I am interested in
 - Orthogonal Polynomials and Their $q$-Analogue
 - Quantum Information Theory
 
-Last updated: {{ page.last_modified_at | date: "%Y-%m-%d" }}
+<p>Last updated: <span id="last-updated"></span></p>
+
+<script>
+  const updated = new Date(document.lastModified);
+  document.getElementById("last-updated").textContent =
+    updated.toLocaleDateString("en-US", {
+      year: "numeric",
+      month: "short",
+      day: "numeric"
+    });
+</script>
+
