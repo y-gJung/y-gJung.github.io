@@ -50,3 +50,19 @@ a:visited {
   flex-grow: 1;
   padding: 2rem;
 }
+
+.paper-list > li {
+  color: #3b7f3b; /* 녹색 계열 */
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #ccc; /* 가로선 */
+  list-style-position: outside;
+}
+
+.paper-title {
+  font-weight: bold;
+}
+
+.research-list > li {
+  color: #3b7f3b;
+}
