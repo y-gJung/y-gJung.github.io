@@ -24,14 +24,6 @@ title: Research
   </li>
 </ol>
 
-<div class="space-y-4">
-  <div>
-    <p><span class="font-bold text-blue-600">#23</span> I. Seo, C.-H. Rhee, J. Ryu (2025)<br>
-    <em>Exit Time Analysis for Kesten's stochastic recurrence equations</em><br>
-    <span class="italic">Submitted.</span> <a href="#" class="text-blue-600 underline">arXiv link</a>
-    </p>
-  </div>
-</div>
 
 ## Talks
 <ol reversed>
