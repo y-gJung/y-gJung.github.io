@@ -11,7 +11,7 @@ title: Research
 - Quantum Information Theory
 
 ## Preprints & Ongoing Works
-<ol reversed class="publication-list">
+<ol reversed class="paper-list">
   <li>
     Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
     <strong>Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong> <br>
@@ -20,7 +20,7 @@ title: Research
 </ol>
 
 ## Publications
-<ol reversed class="publication-list">
+<ol reversed class="paper-list">
   <li>
     Yeong-Gwang Jung, Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn <br>
     <strong>A universal framework for entanglement detection under group symmetry.</strong> <br>
