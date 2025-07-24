@@ -51,19 +51,17 @@ a:visited {
   padding: 2rem;
 }
 
-/* 리스트 번호만 녹색으로 표시 */
-.preprint-list > li::marker,
-.publication-list > li::marker,
-.talk-list > li::marker {
-  color: #3b7f3b;  /* 진한 녹색 (원하시면 다른 색으로 바꾸세요) */
-  font-weight: bold;
+.paper-list li {
+  position: relative;
+  padding-bottom: 1.5rem;
 }
 
-/* 리스트 사이 구분선 */
-.preprint-list li,
-.publication-list li,
-.talk-list li {
-  border-top: 1px solid #ddd;
-  padding-top: 0.5em;
-  margin-top: 0.5em;
+.paper-list li::after {
+  content: "";
+  position: absolute;
+  left: 1.5em; /* 번호보다 약간 오른쪽에서 시작 */
+  bottom: 0;
+  width: calc(100% - 1.5em); /* 오른쪽 끝까지 */
+  height: 1px;
+  background-color: #ccc;
 }
