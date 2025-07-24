@@ -51,6 +51,18 @@ title: Research
   </li>
 </ol>
 
-### 2023
+### 2022
+<ol reversed>
+  <li>
+    Operator Winter School 2022. December 19 - 22, Daegwallyeong, Korea.
+  </li>
+  <li>
+    The 17th ILJU School of Mathematics. August 1 - 3, Postech, Pohang, Korea.
+  </li>
+  <li>
+    Esquisses Summer School. July 4 - 8, Porquerolles, France.
+  </li>
+</ol>
 
-##Scientific Visit
+
+## Scientific Visits
