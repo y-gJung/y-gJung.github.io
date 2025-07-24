@@ -19,6 +19,9 @@ title: Research
     3rd China-Japan-Korea Probability Joint Workshop. May 8 - 9, RIMS, Kyoto, Japan.
   </li>
   <li>
+    KMS Spring Meeting. April 24 - 26, KAIST, Dajeon, Korea.
+  </li>
+  <li>
     Probability Workshop in Korea 2025. January 19 - 22, Jeongseon, Korea.
   </li>
 </ol>
@@ -29,23 +32,25 @@ title: Research
     Workshop on Probability and Mathematical Physics. December 15 - 20, Gimhae, Korea.
   </li>
   <li>
-    The 17th HU-SNU Symposium on Mathematics. November 1, Seoul National University, Korea.
+    The 17th HU-SNU Symposium on Mathematics. November 1, Seoul National University, Seoul, Korea.
+  </li>
+  <li>
+    2024 KMS Annual Meeting. October 18 - 20, Sungkyunkwan University, Suwon, Korea.
   </li>
   <li>
     2nd China-Japan-Korea Joint Probability Workshop. October 9 - 12, Jeju Island, Korea.
   </li>
   <li>
-    Workshop on Combinatorics and Probability. June 27 - 28, June E Huh Center for Mathematical Challenges, Korea.
+    Workshop on Combinatorics and Probability. June 27 - 28, June E Huh Center for Mathematical Challenges, Seoul, Korea.
   </li>
   <li>
     Random Matrices and Related Topics in Jeju. May 6 - 10, Jeju Island, Korea.
   </li>
   <li>
-    KMS 
-  </li>
-  <li>
-    Eleventh Bielefeld-SNU Joint Workshop. April 4 - 10, Seoul National University, Korea.
+    Eleventh Bielefeld-SNU Joint Workshop. April 4 - 10, Seoul National University, Seoul, Korea.
   </li>
 </ol>
 
 ### 2023
+
+##Scientific Visit
