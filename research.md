@@ -13,8 +13,8 @@ title: Research
 ## Preprints & Ongoing Works
 <ol reversed class="publication-list">
   <li>
-    Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh
-    <strong>Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong>
+    Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
+    <strong>Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong> <br>
     <em>Ongoing</em>
   </li>
 </ol>
@@ -22,8 +22,8 @@ title: Research
 ## Publications
 <ol reversed class="publication-list">
   <li>
-    Yeong-Gwang Jung, Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn
-    <strong>A universal framework for entanglement detection under group symmetry.</strong>
+    Yeong-Gwang Jung, Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn <br>
+    <strong>A universal framework for entanglement detection under group symmetry.</strong> <br>
     <em>Journal of Physics A: Mathematical and Theoretical</em>, 57, 325304 (2024). 
   </li>
 </ol>
