@@ -11,7 +11,7 @@ title: Research
 - Quantum Information Theory
 
 ## Preprints & Ongoing Works
-<ol class="paper-list" reversed>
+<ol reversed class="paper-list">
   <li>
     <span class="paper-title">Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight.</span><br>
     (Ongoing work with Sung-Soo Byun and Jaeseong Oh)
