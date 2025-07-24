@@ -19,7 +19,7 @@ title: Research
 </ol>
 
 ## Publications
-<ol reversed>
+<ol reversed class="publication-list">
   <li>
   A universal framework for entanglement detection under group symmetry. <em>Journal of Physics A: Mathematical and Theoretical</em>, 57, 325304 (2024). (with Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn)
   </li>
