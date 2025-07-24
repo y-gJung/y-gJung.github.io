@@ -14,6 +14,11 @@ title: Research
 <ol reversed class="paper-list">
   <li>
     Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
+    <strong>Spectral analysis of $q$-deformed Laguerre unitary ensembles.</strong> <br>
+    <em>Ongoing</em>
+  </li>
+  <li>
+    Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
     <strong>Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong> <br>
     <em>Ongoing</em>
   </li>
