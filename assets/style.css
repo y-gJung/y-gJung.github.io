@@ -59,9 +59,9 @@ a:visited {
 .paper-list li::after {
   content: "";
   position: absolute;
-  left: 1.5em; /* 번호보다 약간 오른쪽에서 시작 */
+  left: 0; /* 번호보다 약간 오른쪽에서 시작 */
   bottom: 0;
-  width: calc(100% - 1.5em); /* 오른쪽 끝까지 */
+  width: calc(80% - 1.5em); /* 오른쪽 끝까지 */
   height: 1px;
   background-color: #ccc;
 }
