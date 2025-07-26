@@ -15,7 +15,7 @@ title: Research
   <li>
     Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
     <strong>Spectral analysis of $q$-deformed Laguerre unitary ensembles.</strong> <br>
-    <em>Ongoing</em>
+    <a href="https://arxiv.org/abs/2507.18042" target="_blank"> arXiv </a>
   </li>
   <li>
     Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
