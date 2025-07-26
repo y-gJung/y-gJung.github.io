@@ -15,7 +15,7 @@ I am a student member of [SNU Probability group](https://sites.google.com/view/s
  
 I am interested in 
 - Random Matrix Theory
-- Orthogonal Polynomials and Their $q$-Analogue
+- Orthogonal Polynomials and Their <span>$q$</span>-Analogue
 - Quantum Information Theory
 
 <p>Last updated: <span id="last-updated"></span></p>
