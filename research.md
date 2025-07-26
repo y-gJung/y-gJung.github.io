@@ -7,19 +7,19 @@ title: Research
 
 ## Research Interests
 - Random Matrix Theory
-- Orthogonal Polynomials and Their $q$-Analogue
+- Orthogonal Polynomials and Their <span>$q$</span>-Analogue
 - Quantum Information Theory
 
 ## Preprints & Ongoing Works
 <ol reversed class="paper-list">
   <li>
     Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
-    <strong>Spectral analysis of $q$-deformed Laguerre unitary ensembles.</strong> <br>
+    <strong>Spectral analysis of <span>$q$</span>-deformed Laguerre unitary ensembles.</strong> <br>
     <em>Ongoing</em>
   </li>
   <li>
     Yeong-Gwang Jung, Sung-Soo Byun, Jaeseong Oh <br>
-    <strong>Spectral analysis of $q$-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong> <br>
+    <strong>Spectral analysis of <span>$q$</span>-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong> <br>
     <a href="https://arxiv.org/abs/2507.18042" target="_blank"> arXiv </a>
   </li>
 </ol>
