@@ -65,3 +65,27 @@ a:visited {
   height: 1px;
   background-color: #ccc;
 }
+
+.paper-list li::marker {
+  color: #b0e298;
+}
+
+.paper-list li {
+  margin-bottom: 2em;
+}
+
+.paper-list a {
+  text-decoration: underline;
+  color: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+}
+
+.paper-list hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  margin-left: 1.2em;
+  width: calc(100% - 1.2em);
+}
