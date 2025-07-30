@@ -30,7 +30,7 @@ title: Research
     Yeong-Gwang Jung, Sang-Jun Park, Jeongeun Park, Sang-Gyun Youn <br>
     <strong>A universal framework for entanglement detection under group symmetry.</strong> <br>
     <em>Journal of Physics A: Mathematical and Theoretical</em>, 57, 325304 (2024). <br>
-    <a href="https://arxiv.org/abs/2301.03849" target="_blank"> arXiv </a>, <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad6413" target="_blank"> Journal </a>
+    <a href="https://arxiv.org/abs/2301.03849" target="_blank">arXiv</a>, <a href="https://iopscience.iop.org/article/10.1088/1751-8121/ad6413" target="_blank">Journal</a>
   </li>
 </ol>
 
