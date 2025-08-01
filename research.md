@@ -38,6 +38,9 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
+    [2025. 09. 11] <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>, Kyoto University, Japan. (Scheduled, Poster)
+  </li>
+  <li>
   [2025. 08. 15] <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>, Creswick, Australia. (Scheduled)
   </li>
   <li>
