@@ -10,6 +10,9 @@ title: Research
 ### 2025
 <ol reversed>
   <li>
+    Log-gases in Caeli Australi. August 4 - 15, MATRIX Institute, Creswick, Australia.
+  </li>
+  <li>
     Probability Summer School in Korea. June 22 - 26, Sokcho, Korea.
   </li>
   <li>
