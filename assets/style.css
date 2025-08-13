@@ -3,6 +3,13 @@
   display: flex;
   min-height: 100vh;
   font-family: 'IBM Plex Sans', sans-serif;
+  color: #f0f0f0;
+  background-color: #1e1e1e;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
   background-color: #1e1e1e;
 }
 
@@ -26,7 +33,7 @@
 }
 
 .main-content {
-  margin-left: 200px;  /* 사이드바만큼 오른쪽으로 밀기 */
+  margin-left: 220px;  /* 사이드바만큼 오른쪽으로 밀기 */
   padding: 20px;
   flex: 1;
 }
