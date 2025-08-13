@@ -41,7 +41,7 @@ title: Research
     [2025. 09. 11] <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>, Kyoto University, Japan. (Scheduled, Poster)
   </li>
   <li>
-    [2025. 09. 3] <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>, Bielefeld University, Germany. (Scheduled, Poster)
+    [2025. 09. 03] <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>, Bielefeld University, Germany. (Scheduled, Poster)
   </li>
   <li>
   [2025. 08. 15] <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>, Creswick, Australia. (Scheduled)
