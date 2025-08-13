@@ -8,6 +8,7 @@
 }
 
 .sidebar {
+  position: fixed;
   width: 200px;
   background-color: #222;
   padding: 2rem 1rem;
@@ -20,9 +21,19 @@
   margin-bottom: 2rem;
 }
 
+.layout {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 200px;  /* 사이드바만큼 오른쪽으로 밀기 */
+  padding: 20px;
+  flex: 1;
+}
+
 .side-link {
   display: block;
-  color: #c8f7c5;
+  color: #88c999;
   text-decoration: none;
   padding: 0.5rem 0;
   font-size: 1.1rem;
@@ -89,3 +100,5 @@ a:visited {
   margin-left: 1.2em;
   width: calc(100% - 1.2em);
 }
+
+
