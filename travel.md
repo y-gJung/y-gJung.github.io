@@ -10,6 +10,12 @@ title: Research
 ### 2025
 <ol reversed>
   <li>
+    <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. September 8 - 12,  Kyoto University, Japan. (Scheduled)
+  </li>
+  <li>
+    <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, Bielefeld University, Germany. (Scheduled)
+  </li>
+  <li>
     Log-gases in Caeli Australi. August 4 - 15, MATRIX Institute, Creswick, Australia.
   </li>
   <li>
