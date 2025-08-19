@@ -19,7 +19,7 @@ title: Research
     <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, Bielefeld University, Germany. (Scheduled)
   </li>
   <li>
-    Log-gases in Caeli Australi. August 4 - 15, MATRIX Institute, MATRIX Institute, Creswick, Australia.
+    Log-gases in Caeli Australi. August 4 - 15, MATRIX Institute, Creswick, Australia.
   </li>
   <li>
     Probability Summer School in Korea. June 22 - 26, Sokcho, Korea.
