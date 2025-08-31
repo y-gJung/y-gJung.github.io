@@ -16,50 +16,50 @@ title: Research
     <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. September 8 - 12,  Kyoto University, Japan. (Scheduled)
   </li>
   <li>
-    <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, Bielefeld University, Germany. (Scheduled)
+    <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, Bielefeld University, Germany.
   </li>
   <li>
-    Log-gases in Caeli Australi. August 4 - 15, MATRIX Institute, Creswick, Australia.
+    <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>. August 4 - 15, MATRIX Institute, Creswick, Australia.
   </li>
   <li>
-    Probability Summer School in Korea. June 22 - 26, Sokcho, Korea.
+    <a href="https://sites.google.com/view/pssk2025/">Probability Summer School in Korea</a>. June 22 - 26, Sokcho, Korea.
   </li>
   <li>
-    Universality, Nonlinearity, and Integrability: in Honor of Percy Deift. May 12 - 16, KIAS, Seoul Korea.
+    <a href="https://sites.google.com/view/deift2025">Universality, Nonlinearity, and Integrability: in Honor of Percy Deift</a>. May 12 - 16, KIAS, Seoul Korea.
   </li>
   <li>
-    3rd China-Japan-Korea Probability Joint Workshop. May 8 - 9, RIMS, Kyoto, Japan.
+    <a href="https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html">3rd China-Japan-Korea Probability Joint Workshop</a>. May 8 - 9, RIMS, Kyoto, Japan.
   </li>
   <li>
-    KMS Spring Meeting. April 24 - 26, KAIST, Dajeon, Korea.
+    <a href="https://www.kms.or.kr/conference/2025_spring/">KMS Spring Meeting</a>. April 24 - 26, KAIST, Dajeon, Korea.
   </li>
   <li>
-    Probability Workshop in Korea 2025. January 19 - 22, Jeongseon, Korea.
+    <a href="https://sites.google.com/view/pwk2025">Probability Workshop in Korea 2025</a>. January 19 - 22, Jeongseon, Korea.
   </li>
 </ol>
 
 ### 2024
 <ol reversed>
   <li>
-    Workshop on Probability and Mathematical Physics. December 15 - 20, Gimhae, Korea.
+    <a href="https://sites.google.com/view/wpmp2024">Workshop on Probability and Mathematical Physics in Gimhae 2024</a>. December 15 - 20, Gimhae, Korea.
   </li>
   <li>
-    The 17th HU-SNU Symposium on Mathematics. November 1, Seoul National University, Seoul, Korea.
+    <a href="https://sites.google.com/view/hu-snu-symposium-on-math/home?authuser=0">The 17th HU-SNU Symposium on Mathematics</a>. November 1, Seoul National University, Seoul, Korea.
   </li>
   <li>
-    2024 KMS Annual Meeting. October 18 - 20, Sungkyunkwan University, Suwon, Korea.
+    <a href="https://www.kms.or.kr/conference/2024_fall/">2024 KMS Annual Meeting</a>. October 18 - 20, Sungkyunkwan University, Suwon, Korea.
   </li>
   <li>
-    2nd China-Japan-Korea Joint Probability Workshop. October 9 - 12, Jeju Island, Korea.
+    <a href="https://sites.google.com/view/china-japan-korea-probability/home?authuser=0">2nd China-Japan-Korea Joint Probability Workshop</a>. October 9 - 12, Jeju Island, Korea.
   </li>
   <li>
-    Workshop on Combinatorics and Probability. June 27 - 28, June E Huh Center for Mathematical Challenges, Seoul, Korea.
+    <a href="http://events.kias.re.kr/h/CombinatoricsProbability/?pageNo=5477">Workshop on Combinatorics and Probability</a>. June 27 - 28, June E Huh Center for Mathematical Challenges, Seoul, Korea.
   </li>
   <li>
-    Random Matrices and Related Topics in Jeju. May 6 - 10, Jeju Island, Korea.
+    <a href="http://newton.kias.re.kr/~namgyu/index.html/Jeju24/">Random Matrices and Related Topics in Jeju</a>. May 6 - 10, Jeju Island, Korea.
   </li>
   <li>
-    Eleventh Bielefeld-SNU Joint Workshop. April 4 - 10, Seoul National University, Seoul, Korea.
+    <a href="http://irtg.math.snu.ac.kr/page_qIqd41">Eleventh Bielefeld-SNU Joint Workshop</a>. April 4 - 10, Seoul National University, Seoul, Korea.
   </li>
 </ol>
 
