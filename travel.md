@@ -13,7 +13,7 @@ title: Research
     <a href="https://www.kms.or.kr/conference/meeting/?period=90">KMS Annual Meeting</a>. October 22 - 24, KOFST, Seoul, Korea. (Scheduled)
   </li>
   <li>
-    <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. September 8 - 12,  Kyoto University, Japan. (Scheduled)
+    <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. September 8 - 12,  Kyoto University, Japan.
   </li>
   <li>
     <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, Bielefeld University, Germany.
