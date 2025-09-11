@@ -5,18 +5,22 @@ title: Research
 
 # Travel
 
+## Upcoming Events
+<ol reversed>
+  <li>
+    <a href="https://www.kms.or.kr/conference/meeting/?period=90">KMS Annual Meeting</a>. October 22 - 24, KOFST, Seoul, Korea.
+  </li>
+</ol>
+
 ## Conference Attended
 
 ### 2025
 <ol reversed>
   <li>
-    <a href="https://www.kms.or.kr/conference/meeting/?period=90">KMS Annual Meeting</a>. October 22 - 24, KOFST, Seoul, Korea. (Scheduled)
-  </li>
-  <li>
     <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. September 8 - 12,  Kyoto University, Japan.
   </li>
   <li>
-    <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, Bielefeld University, Germany.
+    <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. August 25 - September 6, ZiF, Bielefeld, Germany.
   </li>
   <li>
     <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>. August 4 - 15, MATRIX Institute, Creswick, Australia.
