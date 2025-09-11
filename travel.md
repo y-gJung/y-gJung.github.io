@@ -31,7 +31,7 @@ title: Research
     <a href="https://sites.google.com/view/pssk2025/">Probability Summer School in Korea</a>. June 22 - 26, Sokcho, Korea.
   </li>
   <li>
-    <a href="https://sites.google.com/view/deift2025">Universality, Nonlinearity, and Integrability: in Honor of Percy Deift</a>. May 12 - 16, KIAS, Seoul Korea.
+    <a href="https://sites.google.com/view/deift2025">Universality, Nonlinearity, and Integrability: in Honor of Percy Deift</a>. May 12 - 16, KIAS, Seoul, Korea.
   </li>
   <li>
     <a href="https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html">3rd China-Japan-Korea Probability Joint Workshop</a>. May 8 - 9, RIMS, Kyoto, Japan.
