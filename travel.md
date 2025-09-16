@@ -40,7 +40,7 @@ title: Research
     <a href="https://www.kurims.kyoto-u.ac.jp/~croydon/CJK3.html">3rd China-Japan-Korea Probability Joint Workshop</a>. May 8 - 9, RIMS, Kyoto, Japan.
   </li>
   <li>
-    <a href="https://www.kms.or.kr/conference/2025_spring/">KMS Spring Meeting</a>. April 24 - 26, KAIST, Dajeon, Korea.
+    <a href="https://www.kms.or.kr/conference/2025_spring/">2025 KMS Spring Meeting</a>. April 24 - 26, KAIST, Dajeon, Korea.
   </li>
   <li>
     <a href="https://sites.google.com/view/pwk2025">Probability Workshop in Korea 2025</a>. January 19 - 22, Jeongseon, Korea.
