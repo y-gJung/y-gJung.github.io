@@ -17,6 +17,7 @@ I am interested in
 - Random Matrix Theory
 - Orthogonal Polynomials and Their <span>$q$</span>-Analogue
 - Quantum Information Theory
+- Free Probability
 
 <p>Last updated: <span id="last-updated"></span></p>
 
