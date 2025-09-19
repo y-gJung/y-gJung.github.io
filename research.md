@@ -15,8 +15,8 @@ title: Research
 ## Preprints & Ongoing Works
 <ol reversed class="paper-list">
   <li>
-    Yeong-Gwang Jung, <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a> <br>
-    <strong>Spectral analysis of <span>$q$</span>-deformed Laguerre unitary ensembles.</strong> <br>
+    Yeong-Gwang Jung, <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>, <a href="https://sites.google.com/view/guidomazzuca/home">Guido Mazzuca </a> <br>
+    <strong><span>$q$</span>-deformed Laguerre unitary ensemble.</strong> <br>
     <em>Ongoing</em>
   </li>
   <li>
