@@ -40,21 +40,21 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
-    [2025. 10. 31] <a href="https://www2.sci.hokudai.ac.jp/dept/math/en/event/12826">The 18th HU-SNU Joint Symposium on Mathematics</a>, Hokkaido University, Hokkaido, Japan. (Scheduled)
+    [2025. 10. 31] <a href="https://www2.sci.hokudai.ac.jp/dept/math/en/event/12826">The 18th HU-SNU Joint Symposium on Mathematics</a>. Hokkaido University, Hokkaido, Japan. (Scheduled)
   </li>
   <li>
-    [2025. 10. 2?] <a href="https://www.kms.or.kr/conference/meeting/index.html?period=90">2025 KMS Annual Meeting</a>, KOFST, Seoul, Korea. (Scheduled)
+    [2025. 10. 2?] <a href="https://www.kms.or.kr/conference/meeting/index.html?period=90">2025 KMS Annual Meeting</a>. KOFST, Seoul, Korea. (Scheduled)
   </li>
   <li>
-    [2025. 09. 09] <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>, Kyoto University, Japan. (Poster)
+    [2025. 09. 09] <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. Kyoto University, Japan. (Poster)
   </li>
   <li>
-    [2025. 09. 03] <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>, ZiF, Bielefeld, Germany. (Poster)
+    [2025. 09. 03] <a href="https://indico.physik.uni-bielefeld.de/event/220/overview">Fifth ZiF Summer School Randomness in Physics and Mathematics 2025</a>. ZiF, Bielefeld, Germany. (Poster)
   </li>
   <li>
-  [2025. 08. 15] <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>, MATRIX Institute, Creswick, Australia.
+  [2025. 08. 15] <a href="https://lica2025.github.io/">Log-gases in Caeli Australi</a>. MATRIX Institute, Creswick, Australia.
   </li>
   <li>
-  [2025. 06. 23] <a href="https://sites.google.com/view/pssk2025/home?authuser=0">Probability Summer School in Korea 2025</a>, Sokcho, Korea.
+  [2025. 06. 23] <a href="https://sites.google.com/view/pssk2025/home?authuser=0">Probability Summer School in Korea 2025</a>. Sokcho, Korea.
   </li>
 </ol>
