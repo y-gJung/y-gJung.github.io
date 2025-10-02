@@ -43,7 +43,7 @@ title: Research
     [2025. 10. 31] <a href="https://www2.sci.hokudai.ac.jp/dept/math/en/event/12826">The 18th HU-SNU Joint Symposium on Mathematics</a>. Hokkaido University, Hokkaido, Japan. (Scheduled)
   </li>
   <li>
-    [2025. 10. 2?] <a href="https://www.kms.or.kr/conference/meeting/index.html?period=90">2025 KMS Annual Meeting</a>. KOFST, Seoul, Korea. (Scheduled)
+    [2025. 10. 23] <a href="https://www.kms.or.kr/conference/meeting/index.html?period=90">2025 KMS Annual Meeting</a>. KOFST, Seoul, Korea. (Scheduled)
   </li>
   <li>
     [2025. 09. 09] <a href="https://benoitcollins.github.io/rmt2025/">Random Matrix Theory Summer School in Japan 2025</a>. Kyoto University, Japan. (Poster)
