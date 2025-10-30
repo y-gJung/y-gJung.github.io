@@ -40,7 +40,7 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
-    [2025. 10. 31] <a href="https://www2.sci.hokudai.ac.jp/dept/math/en/event/12826">The 18th HU-SNU Joint Symposium on Mathematics</a>. Hokkaido University, Hokkaido, Japan. (Scheduled)
+    [2025. 10. 31] <a href="https://sites.google.com/view/hu-snu2025/home">The 18th HU-SNU Joint Symposium on Mathematics</a>. Hokkaido University, Hokkaido, Japan.
   </li>
   <li>
     [2025. 10. 23] <a href="https://www.kms.or.kr/conference/meeting/index.html?period=90">2025 KMS Annual Meeting</a>. KOFST, Seoul, Korea.
