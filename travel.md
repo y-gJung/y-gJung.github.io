@@ -10,10 +10,10 @@ title: Research
 ### 2026
 <ol reversed>
   <li>
-    Probability Workshop in Korea 2026, January 18 - 22, Lahan hotel, Jeonju, Korea.
+    <a href="https://sites.google.com/view/pwk2026">Probability Workshop in Korea 2026</a>. January 18 - 22, Lahan hotel, Jeonju, Korea.
   </li>
   <li>
-    International Workshop on Integrable Systems and Random Matrix Theory, January 5 - 16, Great Bay University, Dongguan, China.
+    International Workshop on Integrable Systems and Random Matrix Theory. January 5 - 16, Great Bay University, Dongguan, China.
   </li>
 </ol>
 
