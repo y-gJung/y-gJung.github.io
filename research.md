@@ -40,7 +40,7 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
-    [2026. 01. 08] International Workshop on Integrable Systems and Random Matrix Theory. January 5 - 16, Great Bay University, Dongguan, China.
+    [2026. 01. 08] International Workshop on Integrable Systems and Random Matrix Theory. Great Bay University, Dongguan, China.
   </li>
   <li>
     [2025. 10. 31] <a href="https://sites.google.com/view/hu-snu2025/home">The 18th HU-SNU Joint Symposium on Mathematics</a>. Hokkaido University, Hokkaido, Japan.
