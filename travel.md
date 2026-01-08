@@ -12,12 +12,16 @@ title: Research
   <li>
     <a href="https://sites.google.com/view/pwk2026">Probability Workshop in Korea 2026</a>. January 18 - 22, Lahan hotel, Jeonju, Korea.
   </li>
+</ol>
+
+## Conference Attended
+
+### 2026
+<ol reversed>
   <li>
     International Workshop on Integrable Systems and Random Matrix Theory. January 5 - 16, Great Bay University, Dongguan, China.
   </li>
 </ol>
-
-## Conference Attended
 
 ### 2025
 <ol reversed>
