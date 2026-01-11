@@ -16,7 +16,7 @@ title: Research
 <ol reversed class="paper-list">
   <li>
     Yeong-Gwang Jung, <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>, <a href="https://sites.google.com/view/guidomazzuca/home">Guido Mazzuca </a> <br>
-    <strong><span>$q$</span>-deformed Marchenko-Pastur Law.</strong> <br>
+    <strong><span>$q$</span>-deformation of the Marchenko-Pastur Law.</strong> <br>
     <em>Ongoing</em>
   </li>
   <li>
