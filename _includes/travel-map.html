@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     L.latLng(-60, -180),
     L.latLng(85, 180)
   );
-  
+
   const map = L.map("travel-map", {
     zoomControl: false,
     attributionControl: false,
@@ -25,19 +25,20 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       subdomains: "abcd",
       maxZoom: 18,
-      noWrap: true,          // ✅ 세계 반복(wrap) 방지
-      bounds: worldBounds,   // ✅ bounds 밖 타일 요청/표시 최소화
+      noWrap: true,
+      bounds: worldBounds
     }
   ).addTo(map);
 
-  // ✅ 타일이 준비된 뒤, 사이즈 재계산 + bounds 맞추기
-  tiles.once("load", () => {
+  // ✅ 1) 먼저 view를 잡는다 (타일 요청이 발생하도록)
+  map.fitBounds(worldBounds, { padding: [10, 10] });
+
+  // ✅ 2) 그 다음에 size를 다시 잡아주고, 한 번 더 맞춘다 (옵션)
+  requestAnimationFrame(() => {
     map.invalidateSize(true);
-    map.fitBounds(worldBounds, {
-      padding: [10, 10]      // ✅ 가장자리(특히 위쪽) 선 보이는 것 완화
-    });
+    map.fitBounds(worldBounds, { padding: [10, 10] });
   });
-  
+
   const points = [
     [37.5665, 126.9780],   // Seoul
     [38.0967, 128.6210],   // Sokcho
@@ -46,8 +47,8 @@ document.addEventListener("DOMContentLoaded", () => {
     [35.0116, 135.7681],   // Kyoto
     [43.0642, 141.3469],   // Sapporo
     [52.0302, 8.5325],     // Bielefeld
-    [-37.7949, 144.9740], // Creswick
-    [48.8566, 2.3522]     // France
+    [-37.7949, 144.9740],  // Creswick
+    [48.8566, 2.3522]      // Paris
   ];
 
   points.forEach(p => {
