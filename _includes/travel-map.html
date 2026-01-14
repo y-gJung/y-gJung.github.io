@@ -1,14 +1,10 @@
+
 <div class="travel-map-container">
   <div id="travel-map"></div>
 </div>
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const worldBounds = L.latLngBounds(
-    L.latLng(-60, -180),
-    L.latLng(85, 180)
-  );
-
   const map = L.map("travel-map", {
     zoomControl: false,
     attributionControl: false,
@@ -20,24 +16,16 @@ document.addEventListener("DOMContentLoaded", () => {
     tap: false
   });
 
-  const tiles = L.tileLayer(
+  const worldBounds = [
+    [-60, -180],
+    [85, 180]
+  ];
+  map.fitBounds(worldBounds);
+
+  L.tileLayer(
     "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
-    {
-      subdomains: "abcd",
-      maxZoom: 18,
-      noWrap: true,
-      bounds: worldBounds
-    }
+    { maxZoom: 5 }
   ).addTo(map);
-
-  // ✅ 1) 먼저 view를 잡는다 (타일 요청이 발생하도록)
-  map.fitBounds(worldBounds, { padding: [10, 10] });
-
-  // ✅ 2) 그 다음에 size를 다시 잡아주고, 한 번 더 맞춘다 (옵션)
-  requestAnimationFrame(() => {
-    map.invalidateSize(true);
-    map.fitBounds(worldBounds, { padding: [10, 10] });
-  });
 
   const points = [
     [37.5665, 126.9780],   // Seoul
@@ -47,13 +35,13 @@ document.addEventListener("DOMContentLoaded", () => {
     [35.0116, 135.7681],   // Kyoto
     [43.0642, 141.3469],   // Sapporo
     [52.0302, 8.5325],     // Bielefeld
-    [-37.7949, 144.9740],  // Creswick
-    [48.8566, 2.3522]      // Paris
+    [-37.7949, 144.9740], // Creswick
+    [48.8566, 2.3522]     // France
   ];
 
   points.forEach(p => {
     L.circleMarker(p, {
-      radius: 3,
+      radius: 4,
       color: "#5fa87c",
       fillColor: "#5fa87c",
       fillOpacity: 1,
@@ -63,3 +51,4 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 });
 </script>
+
