@@ -22,10 +22,12 @@ document.addEventListener("DOMContentLoaded", () => {
   map.fitBounds(worldBounds);
 
   L.tileLayer(
-    "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png",
-    { maxZoom: 5 }
+  "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
+  { maxZoom: 5, subdomains: "abcd" }
   ).addTo(map);
 
+
+  
   const points = [
     [37.5665, 126.9780],   // Seoul
     [38.0967, 128.6210],   // Sokcho
