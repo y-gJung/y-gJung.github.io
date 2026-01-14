@@ -3,6 +3,51 @@ layout: default
 title: Research
 ---
 
+<div class="travel-map-container">
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+<div id="travel-map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  const map = L.map('travel-map', {
+    zoomControl: false,
+    attributionControl: false,
+    scrollWheelZoom: false
+  }).setView([30, 10], 2);
+
+  L.tileLayer(
+    "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
+    { maxZoom: 5 }
+  ).addTo(map);
+
+  const points = [
+    [37.5665, 126.9780],   // Seoul
+    [38.0967, 128.6210],   // Sokcho
+    [-37.8, 144.9],       // Creswick
+    [52.52, 13.405],      // Berlin
+    [43.07, 141.35],      // Hokkaido
+    [22.92, 113.88],      // Dongguan
+    [33.5, 126.5],        // Jeju
+    [48.86, 2.35]         // France
+  ];
+
+  points.forEach(p => {
+    L.circleMarker(p, {
+      radius: 4,
+      color: "#88c999",
+      fillColor: "#88c999",
+      fillOpacity: 1,
+      weight: 1
+    }).addTo(map);
+  });
+</script>
+
+</div>
+
+
 # Travel
 
 ## Upcoming Events
