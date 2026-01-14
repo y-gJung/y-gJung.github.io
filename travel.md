@@ -3,62 +3,7 @@ layout: default
 title: Research
 ---
 
-<div class="travel-map-container">
-  <div id="travel-map"></div>
-</div>
-
-<script>
-  const map = L.map('travel-map', {
-    zoomControl: false,
-    attributionControl: false,
-    scrollWheelZoom: false,
-    doubleClickZoom: false,
-    dragging: false,
-    boxZoom: false,
-    keyboard: false,
-    tap: false
-  }).setView([30, 10], 2);
-
-  // 전 세계 경계
-  const worldBounds = [
-    [-60, -180],   // 남쪽
-    [85, 180]     // 북쪽
-  ];
-
-map.fitBounds(worldBounds);
-  L.tileLayer(
-    "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
-    { maxZoom: 5 }
-  ).addTo(map);
-
-L.tileLayer(
-  "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png",
-  { maxZoom: 5 }
-).addTo(map);
-  
-  const points = [
-    [37.5665, 126.9780],   // Seoul
-    [38.0967, 128.6210],   // Sokcho
-    [33.4996, 126.5312],   // Jeju
-    [22.9243, 113.8735],   // Dongguan (Great Bay Univ.)
-    [35.0116, 135.7681],   // Kyoto
-    [43.0642, 141.3469],   // Hokkaido (Sapporo)
-    [52.0302, 8.5325],     // Bielefeld
-    [-37.7949, 144.9740], // Creswick (Australia)
-    [48.8566, 2.3522]     // Porquerolles / France (near Marseille)
-  ];
-
-  points.forEach(p => {
-    L.circleMarker(p, {
-      radius: 3,
-      color: "#5fa87c",
-      fillColor: "#5fa87c",
-      fillOpacity: 1,
-      weight: 1
-      interactive: false
-    }).addTo(map);
-  });
-</script>
+{% include travel-map.html %}
 
 # Travel
 
