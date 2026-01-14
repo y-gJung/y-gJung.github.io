@@ -4,6 +4,11 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
+  const worldBounds = L.latLngBounds(
+    L.latLng(-60, -180),
+    L.latLng(85, 180)
+  );
+  
   const map = L.map("travel-map", {
     zoomControl: false,
     attributionControl: false,
@@ -15,18 +20,23 @@ document.addEventListener("DOMContentLoaded", () => {
     tap: false
   });
 
-  const worldBounds = [
-    [-60, -180],
-    [85, 180]
-  ];
-  map.fitBounds(worldBounds);
-
-  L.tileLayer(
-  "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
-  { maxZoom: 5, subdomains: "abcd" }
+  const tiles = L.tileLayer(
+    "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
+    {
+      subdomains: "abcd",
+      maxZoom: 18,
+      noWrap: true,          // ✅ 세계 반복(wrap) 방지
+      bounds: worldBounds,   // ✅ bounds 밖 타일 요청/표시 최소화
+    }
   ).addTo(map);
 
-
+  // ✅ 타일이 준비된 뒤, 사이즈 재계산 + bounds 맞추기
+  tiles.once("load", () => {
+    map.invalidateSize(true);
+    map.fitBounds(worldBounds, {
+      padding: [10, 10]      // ✅ 가장자리(특히 위쪽) 선 보이는 것 완화
+    });
+  });
   
   const points = [
     [37.5665, 126.9780],   // Seoul
