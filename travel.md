@@ -31,6 +31,11 @@ map.fitBounds(worldBounds);
     { maxZoom: 5 }
   ).addTo(map);
 
+L.tileLayer(
+  "https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png",
+  { maxZoom: 5 }
+).addTo(map);
+  
   const points = [
     [37.5665, 126.9780],   // Seoul
     [38.0967, 128.6210],   // Sokcho
