@@ -41,9 +41,6 @@ title: Research
   });
 </script>
 
-</div>
-
-
 # Travel
 
 ## Upcoming Events
