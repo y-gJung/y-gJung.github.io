@@ -20,13 +20,14 @@ document.addEventListener("DOMContentLoaded", () => {
     [-60, -180],
     [85, 180]
   ];
-  map.fitBounds(worldBounds);
 
   L.tileLayer(
     "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
     { maxZoom: 5 }
   ).addTo(map);
 
+
+  
   const points = [
     [37.5665, 126.9780],   // Seoul
     [38.0967, 128.6210],   // Sokcho
