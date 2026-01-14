@@ -4,12 +4,8 @@ title: Research
 ---
 
 <div class="travel-map-container">
-
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-
-<div id="travel-map"></div>
-
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <div id="travel-map"></div>
+</div>
 
 <script>
   const map = L.map('travel-map', {
@@ -24,14 +20,14 @@ title: Research
   ).addTo(map);
 
   const points = [
-    [37.5665, 126.9780],   // Seoul
-    [38.0967, 128.6210],   // Sokcho
-    [-37.8, 144.9],       // Creswick
-    [52.52, 13.405],      // Berlin
-    [43.07, 141.35],      // Hokkaido
-    [22.92, 113.88],      // Dongguan
-    [33.5, 126.5],        // Jeju
-    [48.86, 2.35]         // France
+    [37.5665, 126.9780],
+    [38.0967, 128.6210],
+    [-37.8, 144.9],
+    [52.52, 13.405],
+    [43.07, 141.35],
+    [22.92, 113.88],
+    [33.5, 126.5],
+    [48.86, 2.35]
   ];
 
   points.forEach(p => {
