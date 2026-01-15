@@ -12,12 +12,12 @@ title: Research
 - Free Probability
 
 
-## Preprints & Ongoing Works
+## Preprints
 <ol reversed class="paper-list">
   <li>
     Yeong-Gwang Jung, <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>, <a href="https://sites.google.com/view/guidomazzuca/home">Guido Mazzuca </a> <br>
     <strong><span>$q$</span>-deformation of the Marchenko-Pastur Law.</strong> <br>
-    <em>Ongoing</em>
+    <a href="https://arxiv.org/abs/2601.09427" target="_blank"> arXiv </a>
   </li>
   <li>
     Yeong-Gwang Jung, <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>, <a href="https://sites.google.com/view/jaeseong-oh/">Jaeseong Oh</a> <br>
