@@ -3,9 +3,10 @@ layout: default
 title: Research
 ---
 
+# Travel
+
 {% include travel-map.html %}
 
-# Travel
 
 ## Upcoming Events
 
