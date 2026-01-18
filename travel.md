@@ -14,7 +14,7 @@ title: Research
 
 <ol reversed>
   <li>
-    <a href="https://opsfa18.com/">OPSFA-18 Kyoto, August 17 - 21, Doshisha University, Kyoto, Japan.
+    <a href="https://opsfa18.com/">OPSFA-18 Kyoto</a>, August 17 - 21, Doshisha University, Kyoto, Japan.
   </li>
   <li>
     <a href="https://opsfa2026.web.uah.es/">Summer School OPSF-S11 2026</a>. June 15 - 19, Universidad de Alcalá, Madrid, Spain.
