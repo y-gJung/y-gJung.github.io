@@ -14,7 +14,10 @@ title: Research
 
 <ol reversed>
   <li>
-    <a href="https://opsfa2026.web.uah.es/">Summer School OPSF-S11 2026</a>. June 15 - 19, Universidad de Alcalá, Madrid, SPAIN
+    <a href="https://opsfa18.com/">OPSFA-18 Kyoto, August 17 - 21, Doshisha University, Kyoto, Japan.
+  </li>
+  <li>
+    <a href="https://opsfa2026.web.uah.es/">Summer School OPSF-S11 2026</a>. June 15 - 19, Universidad de Alcalá, Madrid, Spain.
   </li>
   <li>
     <a href="https://sites.google.com/view/pwk2026">Probability Workshop in Korea 2026</a>. January 18 - 22, Lahan hotel, Jeonju, Korea.
