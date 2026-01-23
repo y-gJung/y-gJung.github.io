@@ -17,7 +17,13 @@ title: Research
     <a href="https://opsfa18.com/">OPSFA-18 Kyoto</a>. August 17 - 21, Doshisha University, Kyoto, Japan.
   </li>
   <li>
+    <a href="https://www.kms.or.kr/conference/meeting/index.html?period=91">International Conference for the 80th Anniversary of Korean Mathematical Society</a>. June 22 - 25, KOFST, Seoul, Korea.
+  </li>
+  <li>
     <a href="https://opsfa2026.web.uah.es/">Summer School OPSF-S11 2026</a>. June 15 - 19, Universidad de Alcalá, Madrid, Spain.
+  </li>
+  <li>
+    Gathering Advances in Random Matrices and Beyond. June 2 - 4, Institut Henry Poincaré, Paris, France.
   </li>
 </ol>
 
