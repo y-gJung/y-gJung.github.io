@@ -4,11 +4,11 @@ title: Contact
 ---
 
 # Information
-
+<!--
 ## Curriculum Vitae
 
 You can view or download my CV [here](cv.pdf).
-
+-->
 ## Contact
 
 - 📧 Email: wollow21 (at) snu (dot) ac (dot) kr  
