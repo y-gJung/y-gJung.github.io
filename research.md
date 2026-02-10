@@ -40,6 +40,9 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
+    [2026. 04. 01] <a href="https://sites.google.com/view/bms-rmt-seminar/home?authuser=0">Bielefeld-Melbourne-Seoul Random Matrix Seminar</a>. Online.
+  </li>
+  <li>
     [2026. 01. 08] International Workshop on Integrable Systems and Random Matrix Theory. Great Bay University, Dongguan, China.
   </li>
   <li>
