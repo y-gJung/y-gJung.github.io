@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Travel
 ---
 
 {% include travel-map.html %}
