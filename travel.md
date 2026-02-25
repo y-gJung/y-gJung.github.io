@@ -23,7 +23,7 @@ title: Travel
     <a href="https://opsfa2026.web.uah.es/">Summer School OPSF-S11 2026</a>. June 15 - 19, Universidad de Alcalá, Madrid, Spain.
   </li>
   <li>
-    Gathering Advances in Random Matrices and Beyond. June 2 - 4, Institut Henry Poincaré, Paris, France.
+    <a href="https://sites.google.com/view/garmt/home">Gathering Advances in Random Matrices and Beyond</a>. June 2 - 4, Institut Henry Poincaré, Paris, France.
   </li>
 </ol>
 
