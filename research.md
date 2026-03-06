@@ -40,6 +40,9 @@ title: Research
 ## Talks
 <ol reversed>
   <li>
+    [2026. 06. 2?] <a href="https://www.kms.or.kr/conference/meeting/index.html?period=91">International Conference for the 80th Anniversary of Korean Mathematical Society</a>. KOFST, Seoul, Korea.
+  </li>
+  <li>
     [2026. 04. 01] <a href="https://sites.google.com/view/bms-rmt-seminar/home?authuser=0">Bielefeld-Melbourne-Seoul Random Matrix Seminar</a>. Online.
   </li>
   <li>
