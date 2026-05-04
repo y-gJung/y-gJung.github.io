@@ -17,6 +17,9 @@ title: Travel
     <a href="https://opsfa18.com/">OPSFA-18 Kyoto</a>. August 17 - 21, Doshisha University, Kyoto, Japan.
   </li>
   <li>
+    <a href="https://fepw2026.prob.tw/">Far East Probability Workshop 2026</a>. August 10 - 14, KIAS, Seoul, Korea.
+  </li>
+  <li>
     <a href="https://www.kms.or.kr/conference/meeting/index.html?period=91">International Conference for the 80th Anniversary of Korean Mathematical Society</a>. June 22 - 25, KOFST, Seoul, Korea.
   </li>
   <li>
