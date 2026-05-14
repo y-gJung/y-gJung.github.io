@@ -26,8 +26,8 @@ title: Research
   <li>
     Yeong-Gwang Jung, <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>, <a href="https://sites.google.com/view/jaeseong-oh/">Jaeseong Oh</a> <br>
     <strong>Spectral analysis of <span>$q$</span>-deformed unitary ensembles with the Al-Salam--Carlitz weight.</strong> <br>
-    <em>l'Institut Henri Poincaré D: Combinatorics, Physics and their Interactions</em>, to appear. <br>
-    <a href="https://arxiv.org/abs/2507.18042" target="_blank"> arXiv </a>
+    <em>l'Institut Henri Poincaré D: Combinatorics, Physics and their Interactions</em><br>
+    <a href="https://ems.press/journals/aihpd/articles/14299739" target="_blank">Journal</a>, <a href="https://arxiv.org/abs/2507.18042" target="_blank"> arXiv </a>
   </li>
   <li>
     Yeong-Gwang Jung, <a href="https://sites.google.com/view/sang-junparkshome/about?authuser=0">Sang-Jun Park</a>, Jeongeun Park, <a href="https://sites.google.com/site/sanggyunyoun/home">Sang-Gyun Youn</a> <br>
