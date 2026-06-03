@@ -25,15 +25,15 @@ title: Travel
   <li>
     <a href="https://opsfa2026.web.uah.es/">Summer School OPSF-S11 2026</a>. June 15 - 19, Universidad de Alcalá, Madrid, Spain.
   </li>
-  <li>
-    <a href="https://sites.google.com/view/garmt/home">Gathering Advances in Random Matrices and Beyond</a>. June 2 - 4, Institut Henry Poincaré, Paris, France.
-  </li>
 </ol>
 
 ## Conference Attended
 
 ### 2026
 <ol reversed>
+  <li>
+    <a href="https://sites.google.com/view/garmt/home">Gathering Advances in Random Matrices and Beyond</a>. June 2 - 4, Institut Henry Poincaré, Paris, France.
+  </li>
   <li>
     <a href="https://sites.google.com/view/pwk2026">Probability Workshop in Korea 2026</a>. January 18 - 22, Lahan hotel, Jeonju, Korea.
   </li>
