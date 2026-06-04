@@ -22,7 +22,7 @@ title: Research
   <li>
     Yeong-Gwang Jung, <a href="https://sites.google.com/view/Whasungsoobyun">Sung-Soo Byun</a>, <a href="https://gmazzuca.github.io/">Guido Mazzuca </a> <br>
     <strong><span>$q$</span>-deformation of the Marchenko-Pastur Law.</strong> <br>
-    <em>International Mathematics Research Notices, to appear</em>
+    <em>International Mathematics Research Notices, to appear.</em> <br>
     <a href="https://arxiv.org/abs/2601.09427" target="_blank"> arXiv </a>
   </li>
   <li>
