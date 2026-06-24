@@ -19,15 +19,15 @@ title: Travel
   <li>
     <a href="https://fepw2026.prob.tw/">Far East Probability Workshop 2026</a>. August 10 - 14, KIAS, Seoul, Korea.
   </li>
-  <li>
-    <a href="https://www.kms.or.kr/conference/meeting/index.html?period=91">International Conference for the 80th Anniversary of Korean Mathematical Society</a>. June 22 - 25, KOFST, Seoul, Korea.
-  </li>
 </ol>
 
 ## Conference Attended
 
 ### 2026
 <ol reversed>
+  <li>
+    <a href="https://www.kms.or.kr/conference/meeting/index.html?period=91">International Conference for the 80th Anniversary of Korean Mathematical Society</a>. June 22 - 25, KOFST, Seoul, Korea.
+  </li>
   <li>
     <a href="https://sites.google.com/view/garmt/home">Gathering Advances in Random Matrices and Beyond</a>. June 2 - 4, Institut Henry Poincaré, Paris, France.
   </li>
