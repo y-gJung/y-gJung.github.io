@@ -18,11 +18,10 @@ title: Home
         I am also a student member of the
         <a href="https://sites.google.com/view/snuprob/home?authuser=0">SNU Probability Group</a>.
       </p>
-
-      <div class="home-actions">
-        <a class="button-link" href="/research.html">View research</a>
-        <a class="button-link button-link-secondary" href="/info.html">Contact &amp; links</a>
-      </div>
+      <p class="lead">
+        My research interests include random matrix theory, orthogonal polynomials and their
+        <span class="math-inline">$q$</span>-analogues, quantum information theory, and free probability.
+      </p>
     </div>
   </header>
 
@@ -35,7 +34,7 @@ title: Home
       </div>
       <div class="interest-card">
         <strong>Orthogonal Polynomials</strong>
-        <span>Including their $q$-analogues and connections to special functions.</span>
+        <span>Including their <span class="math-inline">$q$</span>-analogues and connections to special functions.</span>
       </div>
       <div class="interest-card">
         <strong>Quantum Information Theory</strong>
@@ -45,24 +44,6 @@ title: Home
         <strong>Free Probability</strong>
         <span>Noncommutative probability and its interaction with random matrices.</span>
       </div>
-    </div>
-  </section>
-
-  <section class="home-section">
-    <h2>Explore</h2>
-    <div class="home-link-grid">
-      <a class="mini-card" href="/research.html">
-        <strong>Research</strong>
-        <span>Preprints, talks, and academic activities</span>
-      </a>
-      <a class="mini-card" href="/info.html">
-        <strong>Info</strong>
-        <span>Contact, links, and education</span>
-      </a>
-      <a class="mini-card" href="/travel.html">
-        <strong>Travel</strong>
-        <span>Conference and research visit records</span>
-      </a>
     </div>
   </section>
 
