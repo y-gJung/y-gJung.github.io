@@ -1,72 +1,106 @@
-
-.layout {
-  display: flex;
-  min-height: 100vh;
-  font-family: 'IBM Plex Sans', sans-serif;
-  color: #f0f0f0;
-  background-color: #1e1e1e;
+:root {
+  --bg: #1e1e1e;
+  --panel: #222;
+  --text: #f0f0f0;
+  --muted: #b9b9b9;
+  --accent: #88c999;
+  --accent-soft: #c3e8cc;
+  --line: rgba(255, 255, 255, 0.11);
 }
 
 html, body {
   margin: 0;
   padding: 0;
-  background-color: #1e1e1e;
+  background-color: var(--bg);
 }
 
-.sidebar {
-  position: fixed;
-  width: 200px;
-  background-color: #222;
-  padding: 2rem 1rem;
-  flex-shrink: 0;
-  height: 100vh;
-}
-
-.sidebar .logo {
-  color: #c3e8cc;
-  text-align: center;
-  margin-bottom: 2rem;
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  color: var(--text);
 }
 
 .layout {
   display: flex;
+  min-height: 100vh;
+  background-color: var(--bg);
 }
 
-.main-content {
-  margin-left: 220px;  /* 사이드바만큼 오른쪽으로 밀기 */
-  padding: 20px;
-  flex: 1;
+.sidebar {
+  position: fixed;
+  inset: 0 auto 0 0;
+  width: 172px;
+  height: 100vh;
+  padding: 2rem 0.85rem;
+  box-sizing: border-box;
+  background: var(--bg);
+  border-right: 1px solid var(--line);
+  flex-shrink: 0;
+}
+
+.side-nav {
+  display: grid;
+  gap: 0.35rem;
 }
 
 .side-link {
+  position: relative;
   display: block;
-  color: #88c999;
+  padding: 0.68rem 0.78rem 0.68rem 1rem;
+  border-radius: 12px;
+  color: #a8d8b2;
+  font-size: 0.96rem;
+  font-weight: 650;
+  letter-spacing: 0.01em;
   text-decoration: none;
-  padding: 0.5rem 0;
-  font-size: 1.1rem;
-  text-align: left;
+  transition: background 0.16s ease, color 0.16s ease, transform 0.16s ease;
+}
+
+.side-link::before {
+  content: "";
+  position: absolute;
+  left: 0.45rem;
+  top: 50%;
+  width: 3px;
+  height: 0;
+  border-radius: 999px;
+  background: var(--accent);
+  transform: translateY(-50%);
+  transition: height 0.16s ease;
 }
 
 .side-link:hover {
-  text-decoration: underline;
+  color: #eaffef;
+  background: rgba(136, 201, 153, 0.075);
+  text-decoration: none;
+  transform: translateX(2px);
 }
 
-a {
-  color: #88c999; /* 예: 짙은 녹색 */
-  text-decoration: none; /* 밑줄 제거 (선택사항) */
+.side-link.active {
+  color: #f7fff9;
+  background: rgba(136, 201, 153, 0.13);
 }
 
-a:hover {
-  text-decoration: underline; /* 마우스 올렸을 때 */
-}
-
-a:visited {
-  color: #88c999;  /* 방문한 링크도 같은 색 유지 */
+.side-link.active::before {
+  height: 1.25rem;
 }
 
 .main-content {
   flex-grow: 1;
-  padding: 2rem;
+  margin-left: 172px;
+  padding: 2.35rem 2.6rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: var(--accent);
 }
 
 .paper-list li {
@@ -299,30 +333,51 @@ a:visited {
 }
 
 @media (max-width: 760px) {
-  .sidebar {
-    position: static;
-    width: auto;
-    height: auto;
-    padding: 1.2rem 1rem;
-  }
-
-  .sidebar .logo {
-    margin-bottom: 1rem;
-  }
-
   .layout {
     display: block;
   }
 
-  .main-content {
-    margin-left: 0;
-    padding: 1.3rem;
+  .sidebar {
+    position: sticky;
+    top: 0;
+    width: auto;
+    height: auto;
+    padding: 0.75rem 1rem;
+    border-right: 0;
+    border-bottom: 1px solid var(--line);
+    background: rgba(30, 30, 30, 0.95);
+    z-index: 10;
+  }
+
+  .side-nav {
+    display: flex;
+    gap: 0.45rem;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .side-nav::-webkit-scrollbar {
+    display: none;
   }
 
   .side-link {
-    display: inline-block;
-    margin-right: 1rem;
-    font-size: 1rem;
+    flex: 0 0 auto;
+    padding: 0.55rem 0.78rem;
+    font-size: 0.94rem;
+    white-space: nowrap;
+  }
+
+  .side-link::before {
+    display: none;
+  }
+
+  .side-link:hover {
+    transform: none;
+  }
+
+  .main-content {
+    margin-left: 0;
+    padding: 1.35rem;
   }
 
   .compact-item {
