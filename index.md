@@ -29,7 +29,7 @@ title: Home
       </div>
       <div class="interest-card">
         <strong>Orthogonal Polynomials</strong>
-        <span>Including their <em>q</em>&#8209;analogues and connections to special functions.</span>
+        <span>Including their <span class="math-term">\(q\)&#8209;analogues</span> and connections to special functions.</span>
       </div>
       <div class="interest-card">
         <strong>Quantum Information Theory</strong>
