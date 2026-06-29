@@ -34,66 +34,27 @@ title: Information
   <section class="info-section">
     <h2>Links</h2>
     <div class="link-stack">
-      <a class="link-card" href="https://y-gjung.github.io/">
-        <span>
-          <strong>Personal website</strong>
-          <em>Homepage and academic updates</em>
-        </span>
-        <span class="link-arrow">&rarr;</span>
-      </a>
-
-      <a class="link-card" href="https://github.com/y-gjung">
-        <span>
-          <strong>GitHub</strong>
-          <em>Homepage source and code repositories</em>
-        </span>
-        <span class="link-arrow">&rarr;</span>
-      </a>
-
-      <a class="link-card" href="https://sites.google.com/view/snuprob/home?authuser=0">
-        <span>
-          <strong>SNU Probability Group</strong>
-          <em>Seminars, members, and group activities</em>
-        </span>
-        <span class="link-arrow">&rarr;</span>
-      </a>
-
-      <a class="link-card" href="https://sites.google.com/view/sungsoobyun">
-        <span>
-          <strong>Advisor's webpage</strong>
-          <em>Sung-Soo Byun</em>
-        </span>
-        <span class="link-arrow">&rarr;</span>
-      </a>
-
-      <!--
-      Add more links here when ready. For example:
-
-      <a class="link-card" href="YOUR_GOOGLE_SCHOLAR_URL">
+      <a class="link-card" href="https://scholar.google.com/citations?user=cHWd5uUAAAAJ&hl=en">
         <span>
           <strong>Google Scholar</strong>
-          <em>Publications and citations</em>
         </span>
         <span class="link-arrow">&rarr;</span>
       </a>
-
-      <a class="link-card" href="YOUR_ORCID_URL">
+      <a class="link-card" href="https://orcid.org/0009-0001-9470-0387">
         <span>
           <strong>ORCID</strong>
-          <em>Researcher identifier</em>
         </span>
         <span class="link-arrow">&rarr;</span>
       </a>
-
-      <a class="link-card" href="YOUR_ARXIV_URL">
+      <a class="link-card" href="https://arxiv.org/search/?query=Jung%2C+Yeong-Gwang&searchtype=author&abstracts=show&order=-announced_date_first&size=50">
         <span>
           <strong>arXiv</strong>
-          <em>Preprints and manuscripts</em>
         </span>
         <span class="link-arrow">&rarr;</span>
       </a>
-      -->
-    </div>
+      </div>
+
+    
   </section>
 
   <section class="info-section">
