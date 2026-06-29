@@ -8,7 +8,6 @@ title: Home
     <div class="home-photo-frame">
       <img src="/myphoto.jpg" alt="Portrait of Yeong-Gwang Jung">
     </div>
-
     <div class="home-hero-text">
       <p class="eyebrow">Welcome</p>
       <h1>Yeong-Gwang Jung</h1>
@@ -17,10 +16,6 @@ title: Home
         advised by <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>.
         I am also a student member of the
         <a href="https://sites.google.com/view/snuprob/home?authuser=0">SNU Probability Group</a>.
-      </p>
-      <p class="lead">
-        My research interests include random matrix theory, orthogonal polynomials and their
-        <span class="math-inline">$q$</span>-analogues, quantum information theory, and free probability.
       </p>
     </div>
   </header>
