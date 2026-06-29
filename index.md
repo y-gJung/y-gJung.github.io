@@ -3,23 +3,71 @@ layout: default
 title: Home
 ---
 
-# Welcome
+<section class="home-page">
+  <header class="home-hero">
+    <div class="home-photo-frame">
+      <img src="/myphoto.jpg" alt="Portrait of Yeong-Gwang Jung">
+    </div>
 
-<img src="/myphoto.jpg" alt="My photo" width="200" style="box-shadow: 0 0 5px rgba(0,0,0,0.2);">
- 
-Thank you for visiting my Homepage.
+    <div class="home-hero-text">
+      <p class="eyebrow">Welcome</p>
+      <h1>Yeong-Gwang Jung</h1>
+      <p class="lead">
+        I am a Ph.D. student in the Department of Mathematical Sciences at Seoul National University,
+        advised by <a href="https://sites.google.com/view/sungsoobyun">Sung-Soo Byun</a>.
+        I am also a student member of the
+        <a href="https://sites.google.com/view/snuprob/home?authuser=0">SNU Probability Group</a>.
+      </p>
 
-I am a Ph.D student in department of mathematical sciences, Seoul National University, advised by [Sung-Soo Byun](https://sites.google.com/view/sungsoobyun).
+      <div class="home-actions">
+        <a class="button-link" href="/research.html">View research</a>
+        <a class="button-link button-link-secondary" href="/info.html">Contact &amp; links</a>
+      </div>
+    </div>
+  </header>
 
-I am a student member of [SNU Probability group](https://sites.google.com/view/snuprob/home?authuser=0).
- 
-I am interested in 
-- Random Matrix Theory
-- Orthogonal Polynomials and Their <span>$q$</span>-Analogue
-- Quantum Information Theory
-- Free Probability
+  <section class="home-section">
+    <h2>Research Interests</h2>
+    <div class="interest-grid">
+      <div class="interest-card">
+        <strong>Random Matrix Theory</strong>
+        <span>Spectral statistics, limiting laws, and related probabilistic structures.</span>
+      </div>
+      <div class="interest-card">
+        <strong>Orthogonal Polynomials</strong>
+        <span>Including their $q$-analogues and connections to special functions.</span>
+      </div>
+      <div class="interest-card">
+        <strong>Quantum Information Theory</strong>
+        <span>Mathematical aspects of quantum systems and information-theoretic problems.</span>
+      </div>
+      <div class="interest-card">
+        <strong>Free Probability</strong>
+        <span>Noncommutative probability and its interaction with random matrices.</span>
+      </div>
+    </div>
+  </section>
 
-<p>Last updated: <span id="last-updated"></span></p>
+  <section class="home-section">
+    <h2>Explore</h2>
+    <div class="home-link-grid">
+      <a class="mini-card" href="/research.html">
+        <strong>Research</strong>
+        <span>Preprints, talks, and academic activities</span>
+      </a>
+      <a class="mini-card" href="/info.html">
+        <strong>Info</strong>
+        <span>Contact, links, and education</span>
+      </a>
+      <a class="mini-card" href="/travel.html">
+        <strong>Travel</strong>
+        <span>Conference and research visit records</span>
+      </a>
+    </div>
+  </section>
+
+  <p class="updated-line">Last updated: <span id="last-updated"></span></p>
+</section>
 
 <script>
   const updated = new Date(document.lastModified);
@@ -30,4 +78,3 @@ I am interested in
       day: "numeric"
     });
 </script>
-
