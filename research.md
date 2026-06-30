@@ -101,9 +101,11 @@ title: Research
       <h3 class="talk-year">2026</h3>
       <div class="talk-list-modern">
         <article class="talk-item">
-          <time class="talk-date" datetime="2026-08">Aug. 2026</time>
+          <time class="talk-date" datetime="2026-08-21">Aug. 21, 2026</time>
           <div class="talk-body">
-            <a class="talk-title" href="https://opsfa18.com/" target="_blank" rel="noopener noreferrer">OPSFA-18 Kyoto</a>
+            <a class="talk-title" href="https://opsfa18.com/" target="_blank" rel="noopener noreferrer">
+              OPSFA-18 Kyoto
+            </a>
             <p class="talk-meta">Doshisha University, Kyoto, Japan.</p>
           </div>
           <span class="talk-badge">Scheduled</span>
