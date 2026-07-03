@@ -55,7 +55,7 @@ title: Research
           <a href="https://sites.google.com/view/jaeseong-oh/" target="_blank" rel="noopener noreferrer">Jaeseong Oh</a>
         </p>
         <p class="paper-venue">
-          <em>Institut Henri Poincaré D: Combinatorics, Physics and their Interactions</em>.
+          <em>Annales de l’Institut Henri Poincaré D: Combinatorics, Physics and their Interactions</em>.
         </p>
         <div class="paper-links">
           <a href="https://ems.press/journals/aihpd/articles/14299739" target="_blank" rel="noopener noreferrer">Journal</a>
