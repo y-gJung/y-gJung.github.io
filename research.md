@@ -27,7 +27,7 @@ title: Research
     </div>
     <div class="publication-list">
       <article class="publication-card">
-        <div class="paper-status">To appear</div>
+        <div class="paper-status">Journal article</div>
         <h3 class="paper-title">
           <span class="math-term">\(q\)&#8209;deformation</span> of the Marchenko&ndash;Pastur Law
         </h3>
