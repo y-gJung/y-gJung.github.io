@@ -37,9 +37,10 @@ title: Research
           <a href="https://gmazzuca.github.io/" target="_blank" rel="noopener noreferrer">Guido Mazzuca</a>
         </p>
         <p class="paper-venue">
-          <em>International Mathematics Research Notices</em>, to appear.
+          <em>International Mathematics Research Notices</em>, 2026(13), rnag134.
         </p>
         <div class="paper-links">
+          <a href="https://academic.oup.com/imrn/article/2026/13/rnag134/8723328" target="_blank" rel="noopener noreferrer">Journal</a>
           <a href="https://arxiv.org/abs/2601.09427" target="_blank" rel="noopener noreferrer">arXiv</a>
         </div>
       </article>
