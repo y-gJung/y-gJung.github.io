@@ -33,14 +33,6 @@ title: Travel
           </div>
           <span class="travel-tag">Upcoming</span>
         </article>
-        <article class="travel-card upcoming">
-          <div class="travel-date">Aug 10 - 14</div>
-          <div class="travel-card-body">
-            <h4><a href="https://fepw2026.prob.tw/">Far East Probability Workshop 2026</a></h4>
-            <p>KIAS, Seoul, Korea</p>
-          </div>
-          <span class="travel-tag">Upcoming</span>
-        </article>
       </div>
     </div>
   </section>
@@ -55,6 +47,13 @@ title: Travel
     <div class="travel-year-block">
       <h3>2026</h3>
       <div class="travel-card-list">
+        <article class="travel-card">
+          <div class="travel-date">Aug 10 - 14</div>
+          <div class="travel-card-body">
+            <h4><a href="https://fepw2026.prob.tw/">Far East Probability Workshop 2026</a></h4>
+            <p>KIAS, Seoul, Korea</p>
+          </div>
+        </article>
         <article class="travel-card">
           <div class="travel-date">Jun 22 - 25</div>
           <div class="travel-card-body">
