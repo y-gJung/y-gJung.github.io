@@ -26,10 +26,10 @@ title: Travel
       <h3>2026</h3>
       <div class="travel-card-list">
         <article class="travel-card upcoming">
-          <div class="travel-date">Aug 17 - 21</div>
+          <div class="travel-date">Dec 18 - 19</div>
           <div class="travel-card-body">
-            <h4><a href="https://opsfa18.com/">OPSFA-18 Kyoto</a></h4>
-            <p>Doshisha University, Kyoto, Japan</p>
+            <h4><a href="https://www.brunel.ac.uk/mathematics/research-and-phd-programmes/Random-Matrix-Theory-Workshops">XXII Brunel–Bielefeld Workshop on RMT</a></h4>
+            <p>Brunel University, London, UK</p>
           </div>
           <span class="travel-tag">Upcoming</span>
         </article>
@@ -47,6 +47,13 @@ title: Travel
     <div class="travel-year-block">
       <h3>2026</h3>
       <div class="travel-card-list">
+        <article class="travel-card">
+          <div class="travel-date">Aug 17 - 21</div>
+          <div class="travel-card-body">
+            <h4><a href="https://opsfa18.com/">OPSFA-18 Kyoto</a></h4>
+            <p>Doshisha University, Kyoto, Japan</p>
+          </div>
+        </article>
         <article class="travel-card">
           <div class="travel-date">Aug 10 - 14</div>
           <div class="travel-card-body">
