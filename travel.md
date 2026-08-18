@@ -28,7 +28,7 @@ title: Travel
         <article class="travel-card upcoming">
           <div class="travel-date">Dec 18 - 19</div>
           <div class="travel-card-body">
-            <h4><a href="https://www.brunel.ac.uk/mathematics/research-and-phd-programmes/Random-Matrix-Theory-Workshops">XXII Brunel–Bielefeld Workshop on RMT</a></h4>
+            <h4><a href="https://www.brunel.ac.uk/mathematics/research-and-phd-programmes/Random-Matrix-Theory-Workshops">XXII Brunel-Bielefeld Workshop on Random Matrix Theory and Applications</a></h4>
             <p>Brunel University, London, UK</p>
           </div>
           <span class="travel-tag">Upcoming</span>
