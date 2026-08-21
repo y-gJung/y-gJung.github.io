@@ -109,7 +109,7 @@ title: Research
             </a>
             <p class="talk-meta">Doshisha University, Kyoto, Japan.</p>
           </div>
-          <span class="talk-badge">Scheduled</span>
+          <!-- <span class="talk-badge">Scheduled</span> -->
         </article>
         <article class="talk-item">
           <time class="talk-date" datetime="2026-06-23">Jun. 23, 2026</time>
