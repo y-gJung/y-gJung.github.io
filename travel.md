@@ -33,6 +33,14 @@ title: Travel
           </div>
           <span class="travel-tag">Upcoming</span>
         </article>
+        <article class="travel-card upcoming">
+          <div class="travel-date">Oct 29 - 31</div>
+          <div class="travel-card-body">
+            <h4><a href="https://www.kms.or.kr/conference/meeting/index.html?period=94">2026 KMS Annual Meeting</a></h4>
+            <p>GIST, Gwangju, Korea</p>
+          </div>
+          <span class="travel-tag">Upcoming</span>
+        </article>
       </div>
     </div>
   </section>
