@@ -149,12 +149,23 @@ a:visited {
 }
 
 #travel-map {
+  display: block;
   width: min(900px, 90vw);
-  height: 420px;
+  height: auto;
+  aspect-ratio: 15 / 7;
   border-radius: 14px;
-  background: #1e1e1e;
+  overflow: hidden;
+  background: #0d0f0e;
   border: 1px solid rgba(136, 201, 153, 0.25);
   box-shadow: 0 0 30px rgba(0,0,0,0.4);
+}
+
+.travel-map-point {
+  fill: #5fa87c;
+  stroke: #88c999;
+  stroke-width: 1;
+  vector-effect: non-scaling-stroke;
+  filter: drop-shadow(0 0 2px rgba(95, 168, 124, 0.55));
 }
 
 /* Information page */
@@ -722,7 +733,6 @@ a:visited {
 
   #travel-map {
     width: 100%;
-    height: 340px;
   }
 }
 
