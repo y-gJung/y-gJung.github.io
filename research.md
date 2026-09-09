@@ -25,10 +25,11 @@ title: Research
     <div class="research-section-header">
       <h2>Preprints</h2>
     </div>
+    <div class="publication-list">
     <article class="publication-card">
         <div class="paper-status">Preprint</div>
         <h3 class="paper-title">
-          <span class="math-term">\(q\)&#8209;deformed polyanalytic Ginibre point processes: construction and central limit theorems for linear statistics
+          <span class="math-term">\(q\)&#8209;deformed</span> polyanalytic Ginibre point processes: construction and central limit theorems for linear statistics
         </h3>
         <p class="paper-authors">
           Yeong-Gwang Jung,
@@ -38,6 +39,7 @@ title: Research
           <a href="https://arxiv.org/abs/2601.09427" target="_blank" rel="noopener noreferrer">arXiv</a>
         </div>
       </article>
+    </div>
   </section>
   
   <section class="research-section">
