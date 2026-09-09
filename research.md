@@ -36,7 +36,7 @@ title: Research
           <a href="ryosukesato-web.github.io/Homepage/ryosuke.html" target="_blank" rel="noopener noreferrer">Ryosuke Sato</a>
         </p>
         <div class="paper-links">
-          <a href="https://arxiv.org/abs/2601.09427" target="_blank" rel="noopener noreferrer">arXiv</a>
+          <a href="https://arxiv.org/abs/2609.06904" target="_blank" rel="noopener noreferrer">arXiv</a>
         </div>
       </article>
     </div>
