@@ -1,0 +1,108 @@
+<div class="travel-map-container">
+  <svg
+    id="travel-map"
+    viewBox="0 0 900 420"
+    preserveAspectRatio="xMidYMid meet"
+    role="img"
+    aria-label="World map showing selected travel locations"
+  >
+    <image
+      href="/assets/world-map.svg"
+      x="0"
+      y="0"
+      width="900"
+      height="420"
+      aria-hidden="true"
+    />
+    <g id="travel-map-points" aria-hidden="true"></g>
+  </svg>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const svg = document.getElementById("travel-map");
+  const pointLayer = document.getElementById("travel-map-points");
+
+  if (!svg || !pointLayer) return;
+
+  // Keep this list in [latitude, longitude] format.
+  // Add another pair here whenever you want a new dot on the map.
+  const points = [
+    [37.5665, 126.9780],   // Seoul
+    [38.0967, 128.6210],   // Sokcho
+    [33.4996, 126.5312],   // Jeju
+    [22.9243, 113.8735],   // Dongguan
+    [35.0116, 135.7681],   // Kyoto
+    [43.0642, 141.3469],   // Sapporo
+    [52.0302, 8.5325],     // Bielefeld
+    [-37.7949, 144.9740],  // Creswick
+    [43.604652, 1.444209], // Toulouse
+    [48.8566, 2.3522]      // Paris
+  ];
+
+  // These values reproduce the framing of the old Leaflet map:
+  // center [30, 10], zoom 2, rendered at 900 x 420.
+  const MAP_WIDTH = 900;
+  const MAP_HEIGHT = 420;
+  const WORLD_SIZE = 256 * Math.pow(2, 2);
+  const CENTER = [30, 10];
+  const MAX_LATITUDE = 85.05112878;
+
+  function projectToWorld(lat, lng) {
+    const boundedLat = Math.max(-MAX_LATITUDE, Math.min(MAX_LATITUDE, lat));
+    const latitude = boundedLat * Math.PI / 180;
+
+    const x = ((lng + 180) / 360) * WORLD_SIZE;
+    const y = (
+      0.5 -
+      Math.log((1 + Math.sin(latitude)) / (1 - Math.sin(latitude))) /
+        (4 * Math.PI)
+    ) * WORLD_SIZE;
+
+    return [x, y];
+  }
+
+  const [centerX, centerY] = projectToWorld(CENTER[0], CENTER[1]);
+
+  function project(lat, lng) {
+    const [worldX, worldY] = projectToWorld(lat, lng);
+
+    return [
+      worldX - centerX + MAP_WIDTH / 2,
+      worldY - centerY + MAP_HEIGHT / 2
+    ];
+  }
+
+  const markers = points.map(([lat, lng]) => {
+    const [x, y] = project(lat, lng);
+    const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
+
+    circle.setAttribute("cx", x.toFixed(2));
+    circle.setAttribute("cy", y.toFixed(2));
+    circle.setAttribute("class", "travel-map-point");
+    pointLayer.appendChild(circle);
+
+    return circle;
+  });
+
+  // Keep dots visually close to the old Leaflet 3px radius on every screen size.
+  function updateMarkerRadius() {
+    const renderedWidth = svg.getBoundingClientRect().width;
+    if (!renderedWidth) return;
+
+    const scale = renderedWidth / MAP_WIDTH;
+    const radius = 3 / scale;
+
+    markers.forEach(marker => marker.setAttribute("r", radius.toFixed(2)));
+  }
+
+  updateMarkerRadius();
+
+  if ("ResizeObserver" in window) {
+    const observer = new ResizeObserver(updateMarkerRadius);
+    observer.observe(svg);
+  } else {
+    window.addEventListener("resize", updateMarkerRadius);
+  }
+});
+</script>
