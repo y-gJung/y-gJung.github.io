@@ -26,20 +26,15 @@ title: Research
       <h2>Preprints</h2>
     </div>
     <article class="publication-card">
-        <div class="paper-status">Journal article</div>
+        <div class="paper-status">Preprint</div>
         <h3 class="paper-title">
-          <span class="math-term">\(q\)&#8209;deformation</span> of the Marchenko&ndash;Pastur Law
+          <span class="math-term">\(q\)&#8209;deformed polyanalytic Ginibre point processes: construction and central limit theorems for linear statistics
         </h3>
         <p class="paper-authors">
           Yeong-Gwang Jung,
-          <a href="https://sites.google.com/view/sungsoobyun" target="_blank" rel="noopener noreferrer">Sung-Soo Byun</a>,
-          <a href="https://gmazzuca.github.io/" target="_blank" rel="noopener noreferrer">Guido Mazzuca</a>
-        </p>
-        <p class="paper-venue">
-          <em>International Mathematics Research Notices</em>, 2026(13), rnag134.
+          <a href="ryosukesato-web.github.io/Homepage/ryosuke.html" target="_blank" rel="noopener noreferrer">Ryosuke Sato</a>
         </p>
         <div class="paper-links">
-          <a href="https://academic.oup.com/imrn/article/2026/13/rnag134/8723328" target="_blank" rel="noopener noreferrer">Journal</a>
           <a href="https://arxiv.org/abs/2601.09427" target="_blank" rel="noopener noreferrer">arXiv</a>
         </div>
       </article>
