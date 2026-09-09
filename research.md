@@ -23,6 +23,30 @@ title: Research
 
   <section class="research-section">
     <div class="research-section-header">
+      <h2>Preprints</h2>
+    </div>
+    <article class="publication-card">
+        <div class="paper-status">Journal article</div>
+        <h3 class="paper-title">
+          <span class="math-term">\(q\)&#8209;deformation</span> of the Marchenko&ndash;Pastur Law
+        </h3>
+        <p class="paper-authors">
+          Yeong-Gwang Jung,
+          <a href="https://sites.google.com/view/sungsoobyun" target="_blank" rel="noopener noreferrer">Sung-Soo Byun</a>,
+          <a href="https://gmazzuca.github.io/" target="_blank" rel="noopener noreferrer">Guido Mazzuca</a>
+        </p>
+        <p class="paper-venue">
+          <em>International Mathematics Research Notices</em>, 2026(13), rnag134.
+        </p>
+        <div class="paper-links">
+          <a href="https://academic.oup.com/imrn/article/2026/13/rnag134/8723328" target="_blank" rel="noopener noreferrer">Journal</a>
+          <a href="https://arxiv.org/abs/2601.09427" target="_blank" rel="noopener noreferrer">arXiv</a>
+        </div>
+      </article>
+  </section>
+  
+  <section class="research-section">
+    <div class="research-section-header">
       <h2>Publications</h2>
     </div>
     <div class="publication-list">
@@ -85,15 +109,6 @@ title: Research
     </div>
   </section>
 
-  <section class="research-section">
-    <div class="research-section-header">
-      <h2>Preprints</h2>
-    </div>
-    <div class="preprint-placeholder">
-      <span class="placeholder-icon">☕</span>
-      <span>Converting coffee into introductions...</span>
-    </div>
-  </section>
   <section class="research-section">
     <div class="research-section-header">
       <h2>Talks</h2>
