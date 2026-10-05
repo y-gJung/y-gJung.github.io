@@ -114,7 +114,7 @@ title: Research
       <h3 class="talk-year">2026</h3>
       <div class="talk-list-modern">
         <article class="talk-item">
-          <time class="talk-date" datetime="2026-11-20">Nov. 21, 2026</time>
+          <time class="talk-date" datetime="2026-11-20">Nov. 20, 2026</time>
           <div class="talk-body">
             <a class="talk-title" href="" target="_blank" rel="noopener noreferrer">
               The 18th HU-SNU Joint Symposium on Mathematics
@@ -132,6 +132,15 @@ title: Research
             <p class="talk-meta">GIST, Gwangju, Korea.</p>
           </div>
           <span class="talk-badge">Scheduled</span>
+        </article>
+        <article class="talk-item">
+          <time class="talk-date" datetime="2026-10-21">Oct. 21, 2026</time>
+          <div class="talk-body">
+            <a class="talk-title" href="https://sites.google.com/view/bms-rmt-seminar/home?authuser=0" target="_blank" rel="noopener noreferrer">
+              Bielefeld&ndash;Melbourne&ndash;Seoul Random Matrix Seminar
+            </a>
+            <p class="talk-meta">Online.</p>
+          </div>
         </article>
         <article class="talk-item">
           <time class="talk-date" datetime="2026-08-21">Aug. 21, 2026</time>
