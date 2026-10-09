@@ -124,7 +124,7 @@ title: Research
           <span class="talk-badge">Scheduled</span>
         </article>
         <article class="talk-item">
-          <time class="talk-date" datetime="2026-10-??">Oct. ??, 2026</time>
+          <time class="talk-date" datetime="2026-10-??">Oct. 29, 2026</time>
           <div class="talk-body">
             <a class="talk-title" href="https://www.kms.or.kr/conference/meeting/?period=94" target="_blank" rel="noopener noreferrer">
               2026 KMS Annual Meeting
