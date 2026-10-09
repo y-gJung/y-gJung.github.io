@@ -117,7 +117,7 @@ title: Research
           <time class="talk-date" datetime="2026-11-20">Nov. 20, 2026</time>
           <div class="talk-body">
             <a class="talk-title" href="" target="_blank" rel="noopener noreferrer">
-              The 18th HU-SNU Joint Symposium on Mathematics
+              The 19th HU-SNU Joint Symposium on Mathematics
             </a>
             <p class="talk-meta">Seoul National University, Seoul, Korea.</p>
           </div>
