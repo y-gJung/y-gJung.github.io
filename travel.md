@@ -34,6 +34,22 @@ title: Travel
           <span class="travel-tag">Upcoming</span>
         </article>
         <article class="travel-card upcoming">
+          <div class="travel-date">Nov 30 - Dec 1</div>
+          <div class="travel-card-body">
+            <h4><a href="https://symposia.kias.re.kr/2026-Seoul-Tokyo">2026 Seoul-Tokyo Conference in Mathematics</a></h4>
+            <p>KIAS, Seoul, Korea</p>
+          </div>
+          <span class="travel-tag">Upcoming</span>
+        </article>
+        <article class="travel-card upcoming">
+          <div class="travel-date">Nov 20</div>
+          <div class="travel-card-body">
+            <h4><a href="">The 19th HU-SNU Joint Symposium on Mathematics</a></h4>
+            <p>Seoul National University, Seoul, Korea</p>
+          </div>
+          <span class="travel-tag">Upcoming</span>
+        </article>
+        <article class="travel-card upcoming">
           <div class="travel-date">Oct 29 - 31</div>
           <div class="travel-card-body">
             <h4><a href="https://www.kms.or.kr/conference/meeting/index.html?period=94">2026 KMS Annual Meeting</a></h4>
