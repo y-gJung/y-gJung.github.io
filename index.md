@@ -20,6 +20,8 @@ title: Home
     </div>
   </header>
 
+  <div class="home-showcase">
+    <div class="home-showcase__interests">
   <section class="home-section">
     <h2>Research Interests</h2>
     <div class="interest-grid">
@@ -41,6 +43,11 @@ title: Home
       </div>
     </div>
   </section>
+    </div>
+    <div class="home-showcase__ensemble">
+      {% include q-lattice.html %}
+    </div>
+  </div>
 
   <p class="updated-line">Last updated: <span id="last-updated"></span></p>
 </section>
@@ -54,3 +61,5 @@ title: Home
       day: "numeric"
     });
 </script>
+
+<script src="/assets/q-lattice.js" defer></script>
