@@ -1005,3 +1005,98 @@ a.talk-title:hover {
     margin-top: 0.15rem;
   }
 }
+
+
+/* ---- Home: compact research area with interactive q-lattice ---- */
+.home-showcase {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.55rem;
+  align-items: start;
+  border-top: 1px solid var(--line);
+  padding: 1.55rem 0 .65rem;
+}
+.home-showcase .home-section { padding: 0; border: 0; }
+.home-showcase .home-section h2 { margin: 0 0 1rem; }
+.home-showcase .interest-grid { grid-template-columns: 1fr; gap: .65rem; }
+.home-showcase .interest-card {
+  min-height: 0;
+  padding: .8rem .95rem;
+  border-radius: 13px;
+}
+.home-showcase .interest-card strong { margin-bottom: .3rem; font-size: .96rem; }
+.home-showcase .interest-card span { font-size: .87rem; line-height: 1.44; }
+.home-showcase__ensemble { min-width: 0; }
+
+/* ---- q-lattice: intentionally matte; uses existing site's sage accent ---- */
+.q-lattice {
+  --axis: rgba(216, 232, 219, .14);
+  --zero-guide: rgba(216, 232, 219, .13);
+  --site: rgba(163, 197, 171, .37);
+  --particle: #bdd5c3;
+  --density: #8eb79b;
+  --density-fill: rgba(136, 201, 153, .095);
+  --track: #3b4740;
+  --track-progress: #7cad8a;
+  --tick: rgba(190, 218, 197, .72);
+  --icon: #aec8b6;
+  --icon-hover: #e3f1e6;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.q-lattice *, .q-lattice *::before, .q-lattice *::after { box-sizing: border-box; }
+.q-lattice__visual {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1.08 / 1;
+  overflow: hidden;
+  background: #212622;
+  border: 1px solid rgba(136,201,153,.19);
+  border-radius: 16px;
+}
+.q-lattice__visual canvas { display: block; width: 100%; height: 100%; touch-action: pan-y; outline-offset: -4px; }
+.q-lattice__actions { position: absolute; top: 12px; right: 12px; display: flex; gap: 2px; }
+.q-lattice__button {
+  display: grid; place-items: center; width: 32px; height: 32px;
+  padding: 6px; border: 1px solid transparent; border-radius: 8px;
+  background: transparent; color: var(--icon); cursor: pointer;
+  transition: color .18s, background .18s;
+}
+.q-lattice__button:hover { color: var(--icon-hover); background: rgba(136,201,153,.075); }
+.q-lattice__button:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.q-lattice__button svg { display: block; width: 17px; height: 17px; }
+.q-lattice__controls { margin: 12px 7px 0; }
+.q-lattice__range-wrap { position: relative; height: 22px; }
+.q-lattice__range {
+  position: relative; z-index: 1;
+  display: block; width: 100%; height: 22px; margin: 0; padding: 0;
+  appearance: none; -webkit-appearance: none; background: transparent; cursor: pointer;
+}
+.q-lattice__range::-webkit-slider-runnable-track { height: 3px; border-radius: 3px; background: linear-gradient(to right, var(--track-progress) 0%, var(--track-progress) var(--progress), var(--track) var(--progress), var(--track) 100%); }
+.q-lattice__range::-moz-range-track { height: 3px; background: var(--track); border-radius: 3px; }
+.q-lattice__range::-moz-range-progress { height: 3px; background: var(--track-progress); }
+.q-lattice__range::-webkit-slider-thumb { appearance: none; -webkit-appearance: none; width: 12px; height: 12px; margin-top: -4.5px; border-radius: 50%; border: 0; background: #a5c8ae; }
+.q-lattice__range::-moz-range-thumb { width: 12px; height: 12px; border-radius: 50%; border: 0; background: #a5c8ae; }
+.q-lattice__range:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; border-radius: 5px; }
+.q-lattice__marks { position: relative; height: 12px; margin: -2px 0 0; pointer-events: none; }
+.q-lattice__mark { position: absolute; top: 0; width: 1px; height: 8px; transform: translateX(-.5px); background: var(--tick); }
+.q-lattice .visually-hidden {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+}
+@media (max-width: 1000px) {
+  .home-showcase { grid-template-columns: 1fr; gap: 1.4rem; }
+  .home-showcase .interest-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .home-showcase__ensemble { max-width: 560px; width: 100%; margin: 0 auto; }
+}
+@media (max-width: 620px) {
+  .home-showcase .interest-grid { grid-template-columns: 1fr; }
+  .home-showcase { gap: 1.35rem; }
+  .q-lattice__visual { aspect-ratio: 1.08 / 1; border-radius: 13px; }
+  .q-lattice__actions { top: 7px; right: 7px; }
+  .q-lattice__button { width: 36px; height: 36px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .q-lattice__button { transition: none; }
+}
