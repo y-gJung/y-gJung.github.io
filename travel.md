@@ -26,10 +26,10 @@ title: Travel
       <h3>2026</h3>
       <div class="travel-card-list">
         <article class="travel-card upcoming">
-          <div class="travel-date">Dec 18 - 19</div>
+          <div class="travel-date">Dec 16 - 19</div>
           <div class="travel-card-body">
-            <h4><a href="https://www.brunel.ac.uk/mathematics/research-and-phd-programmes/Random-Matrix-Theory-Workshops">XXII Brunel-Bielefeld Workshop on Random Matrix Theory and Applications</a></h4>
-            <p>Brunel University, London, UK</p>
+            <h4><a href="https://fomas.kr/ko/events/2026-12-16-south-korea-9fvc/">Probability Workshop in Korea: Winter 2026/2027</a></h4>
+            <p>Busan, Korea</p>
           </div>
           <span class="travel-tag">Upcoming</span>
         </article>
