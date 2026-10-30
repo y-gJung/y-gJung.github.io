@@ -34,7 +34,7 @@ title: Research
         <p class="paper-authors">
           Yeong-Gwang Jung,
           <a href="https://sites.google.com/view/sungsoobyun" target="_blank" rel="noopener noreferrer">Sung-Soo Byun</a>,
-          <a href="https://profiles.sussex.ac.uk/p435611-nicholas-simm" rel="noopener noreferrer">Nick Simm</a>
+          <a href="https://profiles.sussex.ac.uk/p435611-nicholas-simm" target="_blank" rel="noopener noreferrer">Nick Simm</a>
         </p>
         <div class="paper-links">
           <a href="https://arxiv.org/abs/2610.38646" target="_blank" rel="noopener noreferrer">arXiv</a>
