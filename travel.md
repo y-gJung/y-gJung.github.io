@@ -44,7 +44,7 @@ title: Travel
         <article class="travel-card upcoming">
           <div class="travel-date">Nov 20</div>
           <div class="travel-card-body">
-            <h4><a href="">The 19th HU-SNU Joint Symposium on Mathematics</a></h4>
+            <h4><a href="https://sites.google.com/view/hu-snusymposuimonmath/home?authuser=0">The 19th HU-SNU Joint Symposium on Mathematics</a></h4>
             <p>Seoul National University, Seoul, Korea</p>
           </div>
           <span class="travel-tag">Upcoming</span>
